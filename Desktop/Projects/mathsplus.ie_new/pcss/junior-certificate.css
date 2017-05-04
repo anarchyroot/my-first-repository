@@ -1,0 +1,43 @@
+h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 976px;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 484px; min-height: 420px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_1 { position: relative; width: 484px; min-height: 363px; padding: 27px 0px 30px 0px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_1 { position: absolute; padding: 2px 0; top: 0px; left: 0px; right: 0px; text-align: center; font-family: Tahoma; font-size: 14pt; font-style: normal; font-weight: normal; color: #FFFFFF; background-color: #FF0000; z-index: 4;}
+#imCellStyleDescription_1 { position: absolute; padding: 2px 0; bottom: 0px; left: 0px; right: 0px; text-align: center; font-family: Tahoma; font-size: 8pt; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; z-index: 3;}
+#imCellStyleGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_3 { display: block; position: relative; overflow: hidden; width: 484px; min-height: 420px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_3 { position: relative; width: 484px; min-height: 358px; padding: 27px 0px 35px 0px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleTitle_3 { position: absolute; padding: 2px 0; top: 0px; left: 0px; right: 0px; text-align: center; font-family: Tahoma; font-size: 14pt; font-style: normal; font-weight: normal; color: #FFFFFF; background-color: #FF0000; z-index: 4;}
+#imCellStyleDescription_3 { position: absolute; padding: 2px 0; bottom: 0px; left: 0px; right: 0px; text-align: center; font-family: Tahoma; font-size: 8pt; font-style: normal; font-weight: normal; color: #000000; background-color: transparent; z-index: 3;}
+#imCellStyleGraphics_3 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imCell_4 { display: block; position: relative; overflow: hidden; width: 484px; min-height: 365px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_4 { position: relative; width: 484px; min-height: 365px; padding: 0px 0px 0px 0px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_4 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
+#imTextObject_4 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imTextObject_4 a { color: inherit; }
+#imTextObject_4 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imTextObject_4 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imTextObject_4 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imTextObject_4 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imTextObject_4 p { margin: 0; padding: 0; }
+#imTextObject_4 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imTextObject_4 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imTextObject_4 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imTextObject_4 .imUl { text-decoration: underline; }
+#imTextObject_4 .ff0 { font-family: "Arial"; }
+#imTextObject_4 .ff1 { font-family: "Tahoma"; }
+#imTextObject_4 .ff2 { font-family: "Tahoma"; }
+#imTextObject_4 .cf1 { color: #000000; }
+#imTextObject_4 .cf2 { color: #FFFFFF; }
+#imTextObject_4 .cf3 { color: #000000; }
+#imTextObject_4 .cf4 { color: #FF0000; }
+#imTextObject_4 .cf5 { color: #000000; }
+#imTextObject_4 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imTextObject_4 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imTextObject_4 .cb1 { background-color: #000000; }
+#imTextObject_4 .cb2 { background-color: transparent; }
+#imTextObject_4 .cb3 { background-color: #000000; }
+#imTextObject_4 .cb4 { background-color: #FF0000; }
+#imTextObject_4 .cb5 { background-color: #000000; }
+#imCell_6 { display: block; position: relative; overflow: hidden; width: 484px; min-height: 365px; border-top: 5px solid transparent; border-bottom: 5px solid transparent; border-left: 5px solid transparent; border-right: 5px solid transparent;}
+#imCellStyle_6 { position: relative; width: 484px; min-height: 363px; padding: 0px 0px 2px 0px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCellStyleGraphics_6 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
