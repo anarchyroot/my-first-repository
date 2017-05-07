@@ -2,292 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36488a50-76eb-4e15-9f4b-a60ca7c82429" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../CI" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_2zw.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_3xy.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_a4u.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_jjl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_jky.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_mpd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_pet.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_psp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_vkv.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcpa_xrh.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/images/cart-add.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/images/cart-remove.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/images/no-preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/Booking-Form.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/JC1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/JCH-Volume.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/JCHTheorems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/LCO.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Revision-class.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Snip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gradient.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gradient_y63c17mj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/paypal.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/index_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/junior-certificate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/junior-certificate_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/order_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/revision-class.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/revision-class_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub_f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub_f_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub_l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub_l_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub_m.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/sub_m_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ShareCount1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ShareCount2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ToolBox1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ToolBox2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/ToolBox3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/date.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/exclamation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/expressInstall.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imArrB.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imArrL.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imArrR.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imArrT.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imClose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imGallery.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imIconMenuLeft.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imImage.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imLoad.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imPanZoom.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imSound.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imVideo.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imfolder_closed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imfolder_open.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/impage.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imsearch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/separatorh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/separatorv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/video_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/content.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_2zw.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_3xy.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_a4u.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_jjl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_jky.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_mpd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_pet.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_psp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_vkv.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_xrh.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/cart/images/cart-add.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/cart/images/cart-remove.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/cart/images/no-preview.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/files/Booking-Form.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/JC1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/JCH-Volume.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/JCHTheorems.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/LCO.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/Revision-class.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/Snip.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/gradient.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/gradient_y63c17mj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/images/paypal.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/index.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/index_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/junior-certificate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/junior-certificate_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/order.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/order_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/revision-class.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/revision-class_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_f_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_l_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_m.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_m_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/ShareCount1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/ShareCount2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/ToolBox1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/ToolBox2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/ToolBox3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/date.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/exclamation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/expressInstall.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrB.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrL.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrR.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrT.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imClose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imGallery.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imIconMenuLeft.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imImage.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imLoad.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imPanZoom.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imSound.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imVideo.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imfolder_closed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imfolder_open.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/impage.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imsearch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/info.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/separatorh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/separatorv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/video_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/content.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/hello-world.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/tslint.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mathsplus.ie files.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/blog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/checkaccess.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/guestbook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/seo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/website_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imcaptcha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/captcha/imkeys.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/x5cart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cart/x5cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imsearch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imsitemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/junior-certificate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pcss/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pcss/junior-certificate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pcss/order.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pcss/revision-class.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/access.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imemail.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/imlogout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/l10n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/l10n.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/search.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/swfobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/x5cartengine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/x5engine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/x5engine.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/x5settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/x5settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/revision-class.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style/template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/.idea/mathsplus.ie files.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/blog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/checkaccess.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/guestbook.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/seo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/admin/website_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcaptcha.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imkeys.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/cart/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/cart/x5cart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/cart/x5cart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/imsearch.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/imsitemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/junior-certificate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/junior-certificate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/order.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/revision-class.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/access.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imemail.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/imlogout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/l10n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/l10n.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/search.inc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/swfobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5cartengine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5engine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5engine.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/revision-class.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../mathsplus.ie_old/style/template.css" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/haskell.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/scala.xml" />
-      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/css/bootstrap2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/assets/images/skylinewinter.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/typescript-compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/assets/images/skyline.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../hello-world/src/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/files/Booking-Form.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imGallery.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/junior-certificate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/cart/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/impage.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imClose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/order.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imemail.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_l.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_m_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/JCH-Volume.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5settings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_l_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/menu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrR.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/index_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/ToolBox1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/date.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imImage.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/guestbook.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/content.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_2zw.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/junior-certificate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imPanZoom.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_vkv.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_jjl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/cart/images/cart-remove.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/order_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/separatorh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_psp.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrB.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imsearch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/.idea/mathsplus.ie files.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/gradient.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imLoad.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/checkaccess.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/paypal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/website_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/imsitemap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/revision-class.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/cart/images/no-preview.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/revision-class.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/video_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_f_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/order.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/expressInstall.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/junior-certificate_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/imsearch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/ToolBox2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/info.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrL.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_a4u.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imkeys.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/revision-class.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcaptcha.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/search.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/Snip.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_jky.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_pet.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/ShareCount1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_mpd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/junior-certificate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imVideo.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/revision-class_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/ToolBox3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/seo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub_m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imlogout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/exclamation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5engine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/JC1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/menu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_3xy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/pcss/order.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/ShareCount2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/cart/images/cart-add.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imfolder_closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/menu/sub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/JCHTheorems.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imfolder_open.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/LCO.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/separatorv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/captcha/imcpa_xrh.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/gradient_y63c17mj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/x5engine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/l10n.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imIconMenuLeft.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/access.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/cart/x5cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/l10n.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/images/Revision-class.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/cart/x5cart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imSound.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/res/imArrT.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/blog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/admin/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../mathsplus.ie_old/style/ie.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../CI" afterPath="$PROJECT_DIR$/../CI" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello-world/src/app/app.component.html" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello-world/src/app/app.module.ts" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello-world/src/app/app.component.css" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello-world/src/app/app.component.ts" afterPath="$PROJECT_DIR$/../hello-world/src/app/app.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/vcs.xml" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hello-world/src/index.html" afterPath="$PROJECT_DIR$/../hello-world/src/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -302,8 +163,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="163">
+              <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -319,6 +180,13 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -330,8 +198,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -349,6 +218,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -364,7 +234,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -494,14 +363,18 @@
       <workItem from="1493904282305" duration="289000" />
       <workItem from="1493905102672" duration="139000" />
       <workItem from="1493906239107" duration="66000" />
+      <workItem from="1494083312081" duration="1292000" />
+      <workItem from="1494084669963" duration="61000" />
+      <workItem from="1494085862340" duration="11000" />
+      <workItem from="1494092802849" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1643000" />
+    <option name="totallyTimeSpent" value="3034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -524,7 +397,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25274727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -581,8 +454,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
         </state>
       </provider>

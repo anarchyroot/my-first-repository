@@ -1,0 +1,62 @@
+*{
+  padding-left: 0;
+}
+.container {
+  width: 30%;
+  font-family: arial;
+  color: #648B8C;
+  background: darkgray;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+#title2 {
+  color: black;
+  padding: 10px;
+  background-color: lightgray;
+
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+#stars{
+  background-color: lightgray;
+  color: black;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+
+}
+
+p {
+
+
+}
+
+
+img {
+  max-width: 100%;
+  margin: 0px;
+  border-color: black;
+  border-style: solid;
+
+
+}
+
+
+button {
+  color: #444444;
+  cursor: pointer;
+  font-size: x-large;
+  background-color: lightgray;
+  padding: 5px;
+}
+button:hover{
+  background-color: white;
+  transform: scale(1.2,1.2);
+  margin: 2px;
+}

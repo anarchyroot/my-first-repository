@@ -1,0 +1,46 @@
+h2 {
+  border-bottom: dotted;
+  border-color: blue;
+  color: white;
+  text-align: center;
+  font-feature-settings: on;
+  font-style: oblique;
+}
+body {
+  background-color: black;
+  color: black;
+  border: dashed;
+  border-color: red;
+  border-radius: 20px;
+  width: 20%;
+  margin: 5px;
+  padding: 5px;
+}
+p{
+  font-style: italic;
+  border-bottom: solid;
+  border-top: solid;
+  border-color: red;
+  border-radius: 20px;
+  text-align: center;
+  background-color: white;
+
+
+}
+.styleremove {
+  border-color: blue;
+}
+
+#border {
+  background-color: black;
+  margin: 1px;
+  padding: 5px;
+  border-radius: 20px;
+  border-color: blue;
+  border-style: solid;
+}
+input {
+  background-color: white;
+  color: black;
+  margin-left: 10px;
+}

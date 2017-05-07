@@ -1,0 +1,16 @@
+<!-- Interpolation allows the injection of primitive types-->
+<body>
+<h2>{{heading}}</h2>
+
+<!-- And Object Members-->
+<p>
+  Name: {{person.gender === 'female' ? 'Ms' : 'Mr'}} {{person.name.firstName + ' ' + person.name.lastName}}
+</p>
+<p class="styleremove">Address 1: {{person.address.address1}}</p>
+<p>Address 2: {{person.address.address2}}</p>
+<p class="styleremove">City: {{person.address.city}}</p>
+</body>
+
+
+<!--Note the use of double curly braces {{}} to inject the data.
+    The variable name is case sensitive-->

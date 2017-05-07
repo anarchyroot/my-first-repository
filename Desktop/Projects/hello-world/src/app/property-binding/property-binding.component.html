@@ -1,0 +1,13 @@
+<p>
+  property-binding works!
+</p>
+<div class="container">
+  <button (mouseenter)="destination = summer" [disabled]="destination.type =='Summer'" >Summer</button>
+  <button (mouseenter)="destination = winter" [disabled]="destination.type =='Winter'">Winter</button>
+  <h2 [textContent]= "destination.type + ' Destination: ' + destination.name"></h2>
+  <p> <img [src]="destination.photo" [alt]="destination.name" [title]="destination.name"></p>
+  <p id="stars" [hidden]="!destination.rating">
+    Rating: <span [innerHTML]="'&#9734;'.repeat(destination.rating)"></span>
+  </p>
+  <p id="title2">{{destination.description}}</p>
+</div>

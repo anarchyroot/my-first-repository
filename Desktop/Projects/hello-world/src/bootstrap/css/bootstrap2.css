@@ -1,0 +1,26 @@
+/*.spin:hover{*/
+        /*transition: all 3s ease;*/
+        /*transform: scale(100, 100)rotate(5deg);*/
+    /*}*/
+
+
+
+body{
+    margin-top: 80px;
+    background-color: #0f0f0f;
+    color: white;
+}
+
+h1{
+    color: dodgerblue;
+}
+
+.btn{
+    color: black;
+    background-color: gray;
+}
+
+
+@media screen and (max-width: 665){
+
+}

@@ -1,0 +1,48 @@
+<body>
+<div id="border">
+<p>
+  template-reference works!
+</p>
+<h2>MATT'S CALCULATOR</h2>
+<p class="styleremove">
+  <input #num1 type="number" value="{{operands.operand1}}" (input)="0">
+  <input #num2 type="number" value="{{operands.operand2}}" (input)="0">
+</p>
+
+<p>
+
+  <!--By default all data read from HTML (or any other GUI medium) is in the form of a string
+      We convert the values read in by converting each value to a number
+  -->
+  Sum: {{num1.valueAsNumber + num2.valueAsNumber}}
+</p>
+
+<p class="styleremove">
+  Difference: {{difference(num1.valueAsNumber, num2.valueAsNumber)}}
+</p>
+
+<p>
+  Product: {{product(num1.valueAsNumber, num2.valueAsNumber)}}
+</p>
+
+<p class="styleremove">
+  Quotient: {{quotient(num1.valueAsNumber, num2.valueAsNumber)}}
+</p>
+
+<p>
+  Rounded Quotient: {{quotientRounded(num1.valueAsNumber, num2.valueAsNumber)}}
+</p>
+
+<p class="styleremove">
+  Minimum: {{min(num1.valueAsNumber, num2.valueAsNumber)}}
+</p>
+
+<p>
+  Maximum: {{max(num1.valueAsNumber, num2.valueAsNumber)}}
+</p>
+
+<p class="styleremove">
+  Average: {{avg(num1.valueAsNumber, num2.valueAsNumber)}}
+</p>
+</div>
+</body>

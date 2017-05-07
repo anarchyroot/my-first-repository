@@ -1,0 +1,51 @@
+.container {
+    background-color: black;
+    color: white;
+}
+
+nav {
+    font-family: "American Typewriter";
+}
+
+body{
+    margin-top: 35px;
+    background-color: darkgray;
+    color: white;
+}
+
+h2{
+    color: red;
+    font-family: "American Typewriter";
+}
+
+.btn{
+    color: dodgerblue;
+    background-color: #333333;
+}
+h5 {
+    align-items: center;
+}
+
+h9 {
+    font-size: 8px;
+}
+
+#padding{
+    padding-top: 20px;
+}
+.addcolor{
+    background-color: white;
+}
+.badge{
+    padding: 5px;
+    border-style: solid;
+    border-color: #777777;
+    background-color: #333333;
+}
+
+@media screen and (max-width: 665) {
+
+
+}
+
+
