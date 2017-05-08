@@ -7,9 +7,13 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TwoWayBindingComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+  }
 
   ngOnInit() {
   }
+
+  private name: string = '';
+  private treasureMap = '../../../assets/images/treasure.jpeg'
 
 }
