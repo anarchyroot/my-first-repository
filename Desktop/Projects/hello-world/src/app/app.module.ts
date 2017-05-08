@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { InterpolationComponent } from './interpolation/interpolation.component';
 import { TemplateReferenceComponent } from './template-reference/template-reference.component';
 import { PropertyBindingComponent } from './property-binding/property-binding.component';
+import { TwoWayBindingComponent } from './two-way-binding/two-way-binding.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     InterpolationComponent,
     TemplateReferenceComponent,
-    PropertyBindingComponent
+    PropertyBindingComponent,
+    TwoWayBindingComponent
   ],
   imports: [
     BrowserModule,
@@ -21,6 +23,6 @@ import { PropertyBindingComponent } from './property-binding/property-binding.co
     HttpModule
   ],
   providers: [],
-  bootstrap: [InterpolationComponent,TemplateReferenceComponent,PropertyBindingComponent,AppComponent]
+  bootstrap: [AppComponent, InterpolationComponent, TemplateReferenceComponent, PropertyBindingComponent, TwoWayBindingComponent]
 })
 export class AppModule { }

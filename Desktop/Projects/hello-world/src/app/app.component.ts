@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Hello World!';
-  getParagraphText = "This is my first Para";
+  getParagraphText = 'This is my first Para';
 }
 
 
