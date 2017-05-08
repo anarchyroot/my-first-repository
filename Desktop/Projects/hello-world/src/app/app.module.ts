@@ -8,6 +8,8 @@ import { InterpolationComponent } from './interpolation/interpolation.component'
 import { TemplateReferenceComponent } from './template-reference/template-reference.component';
 import { PropertyBindingComponent } from './property-binding/property-binding.component';
 import { TwoWayBindingComponent } from './two-way-binding/two-way-binding.component';
+import { DirectivesNgForComponentComponent } from './directives-ng-for-component/directives-ng-for-component.component';
+import { DirectivesNgForComponent } from './directives-ng-for/directives-ng-for.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +17,9 @@ import { TwoWayBindingComponent } from './two-way-binding/two-way-binding.compon
     InterpolationComponent,
     TemplateReferenceComponent,
     PropertyBindingComponent,
-    TwoWayBindingComponent
+    TwoWayBindingComponent,
+    DirectivesNgForComponentComponent,
+    DirectivesNgForComponent
   ],
   imports: [
     BrowserModule,
