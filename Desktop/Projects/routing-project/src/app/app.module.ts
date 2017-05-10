@@ -9,6 +9,7 @@ import { JumbotronComponent } from './components/jumbotron/jumbotron.component';
 import { AboutComponent } from './components/pages/about/about.component';
 import { HomeComponent } from './components/pages/home/home.component';
 import {routing} from './app.routing';
+import { ContactComponent } from './components/pages/contact/contact.component';
 
 
 @NgModule({
@@ -18,6 +19,7 @@ import {routing} from './app.routing';
     JumbotronComponent,
     AboutComponent,
     HomeComponent,
+    ContactComponent,
   ],
   imports: [
     BrowserModule,
