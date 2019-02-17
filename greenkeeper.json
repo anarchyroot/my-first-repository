@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Desktop/Projects/hello-world/package.json",
+        "Desktop/Projects/routing-project/package.json"
+      ]
+    }
+  }
+}
